@@ -10,6 +10,7 @@ This repository contains **two ready-to-use OTA (Over-The-Air) SoftAP templates*
 
 
 ## 📂 Repository Structure
+
 ESP8266-OTA-SoftAP-Templates/
 ├── Basic_OTA_SoftAP/          # Basic OTA SoftAP version (no authentication)
 │   ├── Basic_OTA_SoftAP.ino
@@ -19,6 +20,7 @@ ESP8266-OTA-SoftAP-Templates/
 │   └── README.md
 ├── LICENSE                    # MIT License
 └── README.md                  # Main documentation
+
 
 
 ## ✨ Features
