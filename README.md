@@ -9,20 +9,6 @@ This repository contains **two ready-to-use OTA (Over-The-Air) SoftAP templates*
    → Adds a **strong SoftAP password** and **OTA authentication password** for better security.
 
 
-## 📂 Repository Structure
-
-ESP8266-OTA-SoftAP-Templates/
-├── Basic_OTA_SoftAP/          # Basic OTA SoftAP version (no authentication)
-│   ├── Basic_OTA_SoftAP.ino
-│   └── README.md
-├── Secure_OTA_SoftAP/         # Secure OTA SoftAP version (password protected)
-│   ├── Secure_OTA_SoftAP.ino
-│   └── README.md
-├── LICENSE                    # MIT License
-└── README.md                  # Main documentation
-
-
-
 ## ✨ Features
 - Works **without** an external Wi-Fi router
 - OTA updates remain active **after every upload**
@@ -30,6 +16,17 @@ ESP8266-OTA-SoftAP-Templates/
 - Built-in LED indicator for OTA progress
 - Simple setup — just upload once via USB, then go wireless
 
+
+## 📂 Repository Structure
+- **ESP8266-OTA-SoftAP-Templates/**
+  - **Basic_OTA_SoftAP/** – Basic OTA SoftAP version (no authentication)  
+    - `Basic_OTA_SoftAP.ino`  
+    - `README.md`
+  - **Secure_OTA_SoftAP/** – Secure OTA SoftAP version (password protected)  
+    - `Secure_OTA_SoftAP.ino`  
+    - `README.md`
+  - `LICENSE` – MIT License  
+  - `README.md` – Main documentation
 
 
 ## 🛠 Requirements
@@ -92,11 +89,10 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 Pull requests are welcome!  
 If you find a bug or want to add a feature, open an issue.
 
----
 
 ## ✍️ Author
 **Muhammad Majid**  
 📧 Contact: *(optional: your email or GitHub profile link)*  
-💼 [GitHub Profile](https://github.com/your-username)
+💼 [GitHub Profile](https://github.com/majid-3)
 
 ---
