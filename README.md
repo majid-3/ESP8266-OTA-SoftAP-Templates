@@ -92,7 +92,6 @@ If you find a bug or want to add a feature, open an issue.
 
 ## ✍️ Author
 **Muhammad Majid**  
-📧 Contact: *(optional: your email or GitHub profile link)*  
 💼 [GitHub Profile](https://github.com/majid-3)
 
 ---
